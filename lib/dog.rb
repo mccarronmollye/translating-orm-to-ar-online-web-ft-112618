@@ -1,2 +1,2 @@
-class Dog < ActiveRecord::Base #inherits .column_names, 
+class Dog < ActiveRecord::Base #inherits .column_names, .create, 
 end
